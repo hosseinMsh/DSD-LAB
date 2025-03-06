@@ -113,4 +113,4 @@ Contributions are welcome! Please read the contributing guidelines for more info
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-For more information, please refer to the [GitHub repository](https://github.com/hosseinMsh/Digital-System-Design-Lab).
+For more information, please refer to the [GitHub repository](https://github.com/hosseinMsh/DSD-LAB).
